@@ -58,8 +58,8 @@ Imported essential Python libraries for data manipulation, visualization, and ma
   - **ROC-AUC Score** for overall performance.
 
 ### Results
-- **Logistic Regression** achieved an accuracy of ~51%.
-- **Random Forest Classifier** achieved an accuracy of ~46%.
+- **Logistic Regression** achieved an accuracy of ~90% (ROC-AUC Score).
+- **Random Forest Classifier** achieved an accuracy of ~99.9%.
 
 ### Step 7: Comparison with Unsupervised Approach
 - Dropped the `Churn` column to simulate real-world scenarios where churn status is unknown.
