@@ -57,13 +57,13 @@ Imported essential Python libraries for data manipulation, visualization, and ma
   - **Precision, Recall, F1-Score** (from classification reports)
   - **ROC-AUC Score** for overall performance.
 
+### Step 7: Hyperparameter Tuning with GridSearchCV
+- Applied **GridSearchCV** to tune hyperparameters for the Random Forest and Logistic Regression models.
+- Optimized parameters for better accuracy and performance.
+
 ### Results
 - **Logistic Regression** achieved an accuracy of ~90% (ROC-AUC Score).
 - **Random Forest Classifier** achieved an accuracy of ~99.9%.
-
-### Step 7: Comparison with Unsupervised Approach
-- Dropped the `Churn` column to simulate real-world scenarios where churn status is unknown.
-- Applied clustering techniques to segment customers and approximate churn.
 
 ## Technologies Used
 - **Programming Language**: Python
