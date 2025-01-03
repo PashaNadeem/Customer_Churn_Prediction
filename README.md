@@ -81,7 +81,7 @@ Imported essential Python libraries for data manipulation, visualization, and ma
 ## Instructions for Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourGitHubUsername/customer-churn-prediction.git
+   git clone https://github.com/PashaNadeem/customer-churn-prediction.git
    ```
 2. Navigate to the project directory:
    ```bash
